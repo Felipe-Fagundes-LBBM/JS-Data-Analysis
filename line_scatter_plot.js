@@ -36,7 +36,7 @@ var trace1 = {
   
   };
   
-  
+
   var data = [trace1, trace2, trace3];
   
   
